@@ -1,0 +1,14 @@
+[project]
+name = "simple-two-sum-error-free-transform"
+version = "0.1.0"
+description = "Compute both the rounded sum of two floats and the exact rounding error."
+requires-python = ">=3.10"
+dependencies = []
+readme = "README.md"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

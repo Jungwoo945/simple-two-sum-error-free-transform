@@ -1,6 +1,6 @@
 [project]
 name = "simple-two-sum-error-free-transform"
-version = "0.1.1"
+version = "0.1.2"
 description = "Compute both the rounded sum of two floats and the exact rounding error."
 requires-python = ">=3.10"
 dependencies = []
